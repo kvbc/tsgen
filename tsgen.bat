@@ -1,0 +1,1 @@
+magick montage -geometry +0+0 -resize %* tileset.jpg
