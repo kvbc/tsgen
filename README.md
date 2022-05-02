@@ -7,5 +7,5 @@
            e.g. 256x128  
    [FILES] e.g. file1.png file2.png
    
-   e.g. ./tsgen.bat 256x256 top.png bottom.png
+   e.g. ./tsgen.bat 256x256 top.png bottom.png merged.png
 </pre>
