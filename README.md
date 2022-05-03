@@ -8,5 +8,5 @@
    [FILES]       file1.png file2.png
    [MERGED_FILE] merged.png
    
-   e.g. "./tsgen.bat" 256x256 top.png bottom.png merged.png
+   e.g. "./tsgen.bat 256x256 top.png bottom.png merged.png"
 </pre>
